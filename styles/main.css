@@ -115,9 +115,8 @@ body {
     /* height: auto; */
 }
 .six .hat {
-    opacity: 0;
-    left: 41.2%;
-    /* transform: translateX(-50%); */
+    left: 50%;
+    transform: translateX(-50%);
     position: absolute;
     /* transform: scale(0.1); */
     top: 0;
